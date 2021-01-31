@@ -4,7 +4,7 @@ import { Container, Title } from './styles';
 const Home: React.FC = () => {
   return (
     <Container>
-      <Title>Hello World</Title>
+      <Title>Hello Fucking World</Title>
     </Container>
   );
 };
